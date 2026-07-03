@@ -1,5 +1,7 @@
 header{
     background-color: #b1e8f1;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 main{
